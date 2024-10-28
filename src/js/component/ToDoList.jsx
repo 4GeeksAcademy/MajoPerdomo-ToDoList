@@ -76,7 +76,7 @@ const TodoList = () => {
         </form>
 
         <div className="todo-counter">
-          {taskList.length} Items Left
+          {taskList.length} Cosas pendientes
         </div>
       </div>
     </div>
